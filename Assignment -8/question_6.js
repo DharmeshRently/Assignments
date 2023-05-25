@@ -4,7 +4,8 @@ const details={
     name :"Dharmesh",
     age:21,
     detail:{
-        name: "Ram"
+        name: "Ram",
+        arr: [1,2,3]
     }
 }
 
