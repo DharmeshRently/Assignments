@@ -1,0 +1,3 @@
+-> Mocha provides hooks like before, after, beforeEach, and afterEach
+
+-> we import the expect function from Chai
